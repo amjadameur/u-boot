@@ -24,7 +24,7 @@ U-Boot compilation
 .. code-block:: bash
 
     $ export CROSS_COMPILE=aarch64-none-elf-
-    $ make libretech-cc_defconfig
+    $ make libretech_cc_defconfig
     $ make
 
 Image creation
